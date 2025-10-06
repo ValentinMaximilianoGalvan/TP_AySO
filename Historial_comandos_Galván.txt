@@ -1,0 +1,349 @@
+whoaim
+whoami
+pwd
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub
+cd $HOME
+man man
+man cd
+cd -help
+ls -l
+mkdir clase4
+ls -l
+cd clase4
+pwd
+ls 
+ls -l
+echo $home
+echo $HOME
+echo hola > archivo1.txt
+echo archivo1.txt 
+cat archivo1.txt 
+echo > archivo1.txt 
+cat archivo1.txt 
+echo chau > archivo1.txt 
+cat archivo1.txt 
+echo buenas tardes >> archivo1.txt 
+cat archivo1.txt 
+cat  
+cat > archivo2.txt 
+ls -l
+ld-l
+ls -l
+cd clase4
+ls-l
+ls -l
+cat clase4
+cd Archivo.txr
+mkdir documentos
+ls -l
+cat archivo1.txt
+grep chau
+grep chau archivo1.txt
+grep ch archivo1.txt
+grep 3 archivo2.txt
+grep linea archivo2.txt
+cat archivo2.txt
+cat > archivo2.txt
+grep 3 archivo2.txt
+sudo apt install tree
+sudo snap install tree
+tree
+mkdir practica
+tree
+pwd
+cd practica/
+ls -l
+touch practica1.txt
+ls -l
+cp practica1.txt practica2.txt 
+ls -l
+rm practica1.txt 
+ls -l
+mv practica2.txt /home/vagrant/clase4/
+ls -l
+tree
+cd ..
+tree
+ls -l
+rmdir practica
+ls-l
+ls -l
+exit
+cat
+Vagrant halt
+vagrant ha
+tree
+cd clase4/documentos/
+cat archivo1.txt
+cd archivo1.txt
+cd ..
+cat archivo1.txt
+cat archivo2.txt
+cd ..
+grep lin
+whoami
+pwd
+ls -l
+cd clase4
+pwd
+ls 
+ls -l
+mkdir facturas pedidos
+ls -l
+tree
+mkdir -p clientes/{facturas,pedidos}
+tree
+mkdir -p {clientes,proovedores}/{facturas,pedidos+
+tree
+rm -r proovedores/\{facturas\,pedidos+/
+tree
+rm {facturas,pedidos+
+tree
+rm -r clientes
+tree
+rm facturas
+rm r- facturas/
+rm facturas/
+tree
+rm facturas/| ls -l
+rm -r facturas
+tree
+rm -r pedidos
+tree
+rm -r proovedores
+tree
+mkdir facturas pedidos
+tree
+mkdir -p clientes/{facuras,pedidos}
+tree
+mk dir contatos/{clientes,proveedores}/{facturas,pedidos}
+mkdir -p contatos/{clientes,proveedores}/{facturas/pedidos}
+tree
+rm -r contatos
+tree
+mkdir -p contatos/{clientes,proveedores}/{facturas,pedidos}
+tree
+id
+last
+cat etc/passwd
+cd ..
+cat etc/passwd
+cd clase4/
+grep -i vagrant /etc/passwd
+cat /etc/shadow
+sudo cat /etc/shadow
+sudo grep -i vagrant /etc/shadow
+cat /etc/group
+sudo su
+sudo groupadd Alumnos
+grep -i Alumnos /etc/group
+sudo useradd -m -s /bin/bash -c "usuario pepe" -G Alumnos 
+grep pepe /etc/passwd
+sudo useradd .m .s /bin/bash -c "usuario pepe" -G Alumnos
+sudo useradd -m -s /bin/bash -c "usuario pepe" -G Alumnos
+sudo groupadd Alumnos
+grep - i Alumnos
+grep -i Alumnos /etc/group
+sudo useradd -m -s /bien/bash -c "usuario pepe" -G Alumnos
+sudo useradd -m -s /bin/bash -c "usuario pepe" -G Alumnos
+sudo useradd -m -s /bin/bash -c "usuario pepe" -G Alumnos pepe
+pwd
+cd home
+cd pepe
+ls -l /home
+cd /pepe
+cd /home
+cd pepe
+cd vagrant/
+cd /home
+sudo cd /pepe
+cd clase 4
+cd /clase4
+cd /vagrant
+sudo passwd pepe
+sudo cd }/pepe
+cd /home/pepe
+cd /home/pepe pepe
+cd/home/vagrant
+cd /home/vagrant
+whoiam
+whoami
+cd clase4
+cd ..
+cd clase4
+pwd
+sudo cd/home/pepe
+su - pepe
+sudo usermod -aG sudo pepe
+ls -l
+cd ..
+ls -l
+cd repogit/
+pwd
+git clone git@github.com:ValentinMaximilianoGalvan/TP_AySO.git
+cd tp1
+cd /Tp1
+ls -l
+cd /TP_AySO
+exit
+tree
+cd clase4/
+CD ..
+cd ..
+ssh-keygen -t ed25519
+n
+tree
+.ssh
+cat $HOME/.ssh/*.pub
+ls -l --time-style=long-iso ~/.ssh/
+ssh -T git@github.com
+cat /etc/os-release
+man grep
+man grape
+man grap
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release 
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+grep Home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release >
+datos_url.txt
+grep -i Home_url /etc/os-release > datos_url.tx
+cat datos_url.txt
+grep -i Home_url /etc/os-release > datos_url.txt
+cat datos_url.txt
+whoami
+usuario:<nombre-del-usuario>
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+git add.
+git add .
+git add
+cd repogit
+cat datos
+cat datos_url.txt
+grep -i Home_url /etc/os-release > datos_url.txt
+cat datos_url.txt
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+cat datos_usuario.txt 
+git add
+git add.
+git add .
+cd TP_AySO/
+cat datos_usuarios
+grep -i Home_url /etc/os-release > datos_url.txt
+cat datos_url.txt 
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+cat datos_usuario.txt
+git add
+git add .
+git config --global user.email "maximilianovalentingalvan@gmail.com"
+git config --global user.name "Valentín Maximiliano Galván"
+git config --global --list
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git add datos_usuarios.txt
+git commit -m "feat: Añadiendo información de CPU"
+cat datos_usuarios.txt
+cat <<EOF >> README.md
+Alumno: Valentín Maximiliano Galván
+División: 211
+Turno: Tarde
+EOF
+
+cat README.md 
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p {materia1,materia2}/{uni1,uni2,uni3}
+tree
+git status
+vagrant halt
+exit
+whoami
+cd repogit/
+cd TP_AySO/
+ls -l
+cd..
+cd ..
+cd home
+cd home/
+pwd
+mkdir clase6
+cd clase6
+pwd 
+echo pwd 
+echo pwd > script1
+ls -ñ
+ls -l
+cat script1 
+bash script1 
+echo whoami > script1 
+cat script1 
+echo pwd >> script1 
+cat script1 
+bash script1 
+vim script2.sh
+cat script2.sh 
+./scrípt2.sh
+-/script2.sh
+cat script2.sh 
+./script2.sh
+chmod 764 script2.sh 
+ls -l
+./script2.sh
+vim script3.sh
+ls -l
+chmod 764 script3.sh 
+ls -l
+./script3.sh 
+ls -l
+tree
+cd ..
+cd repogit/
+cd TP_AySO/
+tree
+rm dir materia1
+rm -r materia1
+tree
+rm -r materia2
+tree
+cd..
+cd ..
+cd repogit/TP_AySO/
+mkdir -p $HOME/{materia1,materia2}/{uni1,uni2,uni3}
+ls $home/dir1
+ls $home/materia1
+ls \$HOME/materia1
+ls $HOME/materia1
+vim script_dir.sh
+tree 
+chmod  764 script_dir.sh 
+tree
+git add .
+git commit -m "ADD:Añadiendo script
+q
+ererrr
+cd repogitexit 
+ee
+exitvagrant halt
+cd ..
+exit
+cd repogit/TP_AySO/
+tree
+git add .
+git commit -m "ADD:Añadiendo script"
+git push
+history -a
